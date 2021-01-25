@@ -11,7 +11,8 @@
   <!--  ArtifactId - the name of this project -->
   <artifactId>isbnvalidator</artifactId>
 
-  <!--  The current version -->
+<!-- More changes -->  
+<!--  The current version -->
 <!-- More comments here again -->
   <version>1.0-SNAPSHOT</version>
 
