@@ -12,6 +12,7 @@
   <artifactId>isbnvalidator</artifactId>
 
   <!--  The current version -->
+<!-- more comments here -->
   <version>1.0-SNAPSHOT</version>
 
   <!--  How are we packaging - jar, war, ear -->
